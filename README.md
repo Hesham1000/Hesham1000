@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Egypt</h3>
 **About me**
 
-- 💼 FrontEnd Engineer
+- 💼 FullStack Engineer
 
 - 📈 Built github-readme-stats, verlyjs and more
 
