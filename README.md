@@ -22,17 +22,13 @@
 
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
-- Read some manga
+- Solve programming problems at Codeforces
+- Watch TV shows
 - Play videogames
-- etc...
 
 ## 💻 Current project
-- [financial-go](https://github.com/Jvillegasd/financial-go)
+A fullstack project called musica using (react & node.js)
 
 ## 📚 Learning
-- Platzi courses about Backend development Roadmap
-- React.js with my Gf 👩‍❤️‍👨
-
+next.js
 ## 🎵 Spotify status
