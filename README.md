@@ -5,7 +5,7 @@
 
 - 📈 Built github-readme-stats, verlyjs and more
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing JavaScript, and building fun experiments on type-level
 
 ## 💬 Ask me about
 - Backend web development (Node.js)
