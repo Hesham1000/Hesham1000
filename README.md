@@ -2,9 +2,6 @@
 <h3 align="center">A software engineer from Egypt</h3>
 
 - 💼 FullStack Engineer
-
-- 📈 Built github-readme-stats, verlyjs and more
-
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
 ## 💬 Ask me about
