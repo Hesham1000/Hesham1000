@@ -33,4 +33,3 @@ A fullstack project called musica using (react & node.js)
 
 ## 📚 Learning
 next.js
-## 🎵 Spotify status
