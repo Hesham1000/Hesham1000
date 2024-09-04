@@ -2,10 +2,9 @@
 <h3 align="center">A software engineer from Egypt</h3>
 
 - 💼 FullStack Engineer
-- ❤️ I love writing JavaScript, and building fun experiments on type-level
 
 ## 💬 Ask me about
-- Backend web development (Node.js)
+- Backend web development (Node.js, Django)
 - Frontend web development (React)
 - Deep Learning and Machine Learning
 - Design Patterns
